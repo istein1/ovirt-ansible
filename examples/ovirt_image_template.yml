@@ -19,7 +19,7 @@
     template_memory: 2GiB
     template_cpu: 2
     template_disk_size: 10GiB
-    template_disk_storage: nfs
+    template_disk_storage: nfs_0
 
   roles:
     - ovirt-image-template
