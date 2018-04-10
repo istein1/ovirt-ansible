@@ -9,7 +9,7 @@
     - passwords.yml
 
   vars:
-    engine_url: https://istein-rhv41.scl.lab.tlv.redhat.com/ovirt-engine/api
+    engine_url: https://ovirt-engine.example.com/ovirt-engine/api
     engine_user: admin@internal
     engine_cafile: /etc/pki/ovirt-engine/ca.pem
 
